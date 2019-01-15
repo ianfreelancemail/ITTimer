@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   ITTimer:
-    :commit: ded09a4c7c84f5b360bd1a7e16849d7c43a74c5e
+    :commit: b310be0546aa813a42e1d1f5438173dac878d912
     :git: https://github.com/ianfreelancemail/ITTimer.git
 
 SPEC CHECKSUMS:
-  ITTimer: 0a71d8d6bcc69913ffc15de5b11ba1f5db9b37d8
+  ITTimer: def63acac5a27079711eb2bb5d1214e669d42cec
 
 PODFILE CHECKSUM: a9e97b79c958a4cacee5546aeca04243fb4a5da2
 

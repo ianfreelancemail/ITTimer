@@ -40,21 +40,21 @@ public class ITTimer {
         }
     }
     
-    func startTimer(duration: CGFloat, isRepeat: Bool){
+    public func startTimer(duration: CGFloat, isRepeat: Bool){
         self.isRepeat = isRepeat
         self.counter = 0.0
         initializeTimer()
     }
     
-    func pauseTimer(){
+    public func pauseTimer(){
         timer?.invalidate()
     }
     
-    func resumeTimer(){
+    public func resumeTimer(){
         initializeTimer()
     }
     
-    func stopTimer(){
+    public func stopTimer(){
         timer?.invalidate()
         timer = nil
     }
