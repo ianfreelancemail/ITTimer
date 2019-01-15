@@ -39,7 +39,7 @@ public class ITTimer {
             // Fallback on earlier versions
         }
     }
-    
+
     func startTimer(duration: CGFloat, isRepeat: Bool){
         self.isRepeat = isRepeat
         self.counter = 0.0

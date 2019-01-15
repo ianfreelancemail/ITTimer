@@ -1,0 +1,6 @@
+framework module ITTimer {
+  umbrella header "ITTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,5 +1,5 @@
 PODS:
-  - ITTimer (0.0.1)
+  - ITTimer (1.0.0)
 
 DEPENDENCIES:
   - ITTimer (from `https://github.com/ianfreelancemail/ITTimer.git`)
@@ -10,11 +10,11 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   ITTimer:
-    :commit: ff61d907b9720616ae560f50795084c8057e0ad6
+    :commit: ded09a4c7c84f5b360bd1a7e16849d7c43a74c5e
     :git: https://github.com/ianfreelancemail/ITTimer.git
 
 SPEC CHECKSUMS:
-  ITTimer: 1a88f22953cc4df2f6b6f831cb73b6c7b6b1ca71
+  ITTimer: 0a71d8d6bcc69913ffc15de5b11ba1f5db9b37d8
 
 PODFILE CHECKSUM: a9e97b79c958a4cacee5546aeca04243fb4a5da2
 

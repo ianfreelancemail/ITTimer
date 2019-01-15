@@ -99,6 +99,7 @@
 				08601B3D21EE243A0075835B /* Sources */,
 				08601B3E21EE243A0075835B /* Frameworks */,
 				08601B3F21EE243A0075835B /* Resources */,
+				AFC47E3BD4144C62682F0D82 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -156,6 +157,28 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		AFC47E3BD4144C62682F0D82 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-ITTimerExample/Pods-ITTimerExample-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/ITTimer/ITTimer.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ITTimer.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ITTimerExample/Pods-ITTimerExample-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		B3DE1CFACC5EEA4DE86C8D31 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

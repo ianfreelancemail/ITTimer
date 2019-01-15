@@ -1,17 +1,17 @@
 {
   "name": "ITTimer",
-  "version": "0.0.1",
-  "summary": "A timer that can be paused, resumed and stopped.",
-  "description": "This framework is an open source that can be used by anyone for the countdown timer.",
-  "homepage": "https://github.com/ianfreelancemail/ITTimer",
+  "version": "1.0.0",
   "license": "MIT",
+  "homepage": "https://github.com/ianfreelancemail/ITTimer",
   "authors": {
-    "Junda": "junda@just2us.com"
+    "Ian Talisic": "ianfreelancemail@gmail.com"
   },
+  "summary": "A timer that can be paused, resumed or stopped.",
   "source": {
-    "path": "."
+    "git": "https://github.com/ianfreelancemail/ITTimer.git",
+    "tag": "1.0.0"
   },
-  "source_files": "Source/**/*.swift",
+  "source_files": "Sources/*.swift",
   "platforms": {
     "osx": null,
     "ios": null,
