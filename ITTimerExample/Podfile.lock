@@ -1,0 +1,21 @@
+PODS:
+  - ITTimer (0.0.1)
+
+DEPENDENCIES:
+  - ITTimer (from `https://github.com/ianfreelancemail/ITTimer.git`)
+
+EXTERNAL SOURCES:
+  ITTimer:
+    :git: https://github.com/ianfreelancemail/ITTimer.git
+
+CHECKOUT OPTIONS:
+  ITTimer:
+    :commit: ff61d907b9720616ae560f50795084c8057e0ad6
+    :git: https://github.com/ianfreelancemail/ITTimer.git
+
+SPEC CHECKSUMS:
+  ITTimer: 1a88f22953cc4df2f6b6f831cb73b6c7b6b1ca71
+
+PODFILE CHECKSUM: a9e97b79c958a4cacee5546aeca04243fb4a5da2
+
+COCOAPODS: 1.5.3
